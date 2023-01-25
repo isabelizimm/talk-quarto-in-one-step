@@ -1,0 +1,10 @@
+---
+format: revealjs
+---
+
+## look!
+its a slide!
+
+## wow!
+
+_another slide_
