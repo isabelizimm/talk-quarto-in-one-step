@@ -1,10 +1,35 @@
 ---
 format: revealjs
+title: Sharing Quarto in 1ish steps
+author: Isabel Zimmerman
 ---
 
-## look!
-its a slide!
+## 
 
-## wow!
+::: r-fit-text
+hello!
+:::
 
-_another slide_
+##
+
+::: r-fit-text
+_can i have a link to these slides?_
+:::
+
+## steps
+
+-1. make a small Quarto document named `index.qmd` and render it
+
+## steps
+
+-1. make a quarto document*
+
+0. put it on github
+
+. . . 
+
+1. deploy github pages from branch
+
+##
+
+[isabelizimm.github.io/quarto-in-one-step](isabelizimm.github.io/quarto-in-one-step)
